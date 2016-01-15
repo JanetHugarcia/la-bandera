@@ -1,0 +1,97 @@
+/* Escribe tu css aqui */
+.uno{
+	height: 100px;
+	padding:5px;
+	
+}
+
+#primero{
+	background-color: #FFFF00;
+}
+
+#segundo{
+	background-color: #ed2251;
+}
+
+#tercero{
+	background-color: #FFFF00;
+	margin-bottom: 50px;
+}
+
+.dos{
+	height: 100px;
+	width:240px;
+	margin-bottom: 20px;
+	padding:5px;
+}
+
+#dos_uno{
+	background-color: #FFFF00;
+
+}
+
+#dos_dos{
+	background-color: #ed2251;
+}
+
+#dos_tres{
+	background-color: #FFFF00;
+	margin-bottom: 50px;
+}
+
+.tres{
+	height: 100px;
+	width:240px;
+	margin-bottom: 50px;
+	margin-right: 10px;
+	padding:5px;
+}
+
+#tres_uno{
+	background-color: #FFFF00;
+	display: inline-block;
+
+}
+
+#tres_dos{
+	background-color: #ed2251;
+	display: inline-block;
+}
+
+#tres_tres{
+	background-color: #FFFF00;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+
+
+.cuatro{
+	height: 10px;
+	width:240px;
+	padding:5px;
+	margin:5px;
+
+	
+}
+
+#cuatro_uno{
+	background-color: #FFFF00;
+	display: inline;
+
+
+}
+
+#cuatro_dos{
+	background-color: #ed2251;
+	display: inline;
+}
+
+#cuatro_tres{
+	background-color: #FFFF00;
+	display: inline;
+	
+}
+
+.janet{
+	margin-bottom: 50px;
+}
